@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python , golang
 
 
-- [Sin selfbot by Sipher](https://github.com/Sipherbot)
+- [Mitsuki selfbot](https://github.com/MitsukiDev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=dracula)
 
