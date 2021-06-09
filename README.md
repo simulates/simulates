@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python , golang
 
 
-- [Mitsuki selfbot](https://github.com/MitsukiDev)
+- 🔭 Mitsuki src on my github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=dracula)
 
