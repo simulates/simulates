@@ -1,13 +1,31 @@
+<img src="https://komarev.com/ghpvc/?username=simulates&color=blue" alt="fax" width="" height="">
+
 ### Hi there 👋
 
-- 🔭 I’m currently working on a multipurpose discord selfbot
-- 🌱 I’m currently learning python , golang
+Name : Ethan
 
+Age : 16
 
-- 🔭 Mitsuki src on my github
+Location : London
+
+### Current Projects!
+
+> Mitsuki src 
+
+> Peep Bot 
+
+### Links!
+
+[Discord](https://discord.gg/prey)
+
+[Twitch](https://twitch.tv/oaks)
+
+[WeHeartIt](https://weheartit.com/utility)
+
+[Gitlab](https://gitlab.com/user/cried)
+
+[Carrd](https://ethan.carrd.co)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=dracula)
-
-<img src="https://komarev.com/ghpvc/?username=simulates&color=blue" alt="fax" width="" height="">
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=reinject)
