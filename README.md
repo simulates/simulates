@@ -2,17 +2,30 @@
 
 ### Hi there 👋
 
-Name : Ethan
 
-Age : 16
+# About ME 💬 :
 
-Location : London
+### - 
 
-### Current Projects!
+<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/824105295121743872/844276302281179237/unknown.png">
 
-> Mitsuki src 
+### - Learning :
+- ✨ It Student
+- ✨ GoLang
 
-> Peep Bot 
+### - Hobbies : 
+- ✨ Skateboarding 
+- ✨ Chilling out 
+- ✨ Coding
+- ✨ Playing games
+
+</br>
+</br>
+</br>
+
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/824246687362187264/846457993125953566/image0-23.jpg">
+
 
 ### Links!
 
@@ -26,6 +39,11 @@ Location : London
 
 [Carrd](https://ethan.carrd.co)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=dracula)
+</br>
+</br>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=reinject)
+<p align="center"><img align="center" src="https://discord.c99.nl/widget/theme-2/847123296234897408.png">
+</br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=dracula">
+</br>
+<p align="center"><img align="center" src="https://lastfm-recently-played.vercel.app/api?user=reinject")
