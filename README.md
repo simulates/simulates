@@ -42,9 +42,6 @@
 </br>
 </br>
 
-<p align="center"><img align="center" src="https://discord.c99.nl/widget/theme-2/847123296234897408.png">
-</br>
-
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=dracula">
 </br>
