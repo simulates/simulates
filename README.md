@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=simulates&color=blue" alt="fax" width="" height="">
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838161829074698251?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/838161829074698251)
+
 ### Hi there 👋
 
 
