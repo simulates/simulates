@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=simulates&color=blue" alt="fax" width="" height="">
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/838161829074698251)](https://discord.com/users/838161829074698251)
 ### Hi there 👋
 
 
