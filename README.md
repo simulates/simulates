@@ -30,4 +30,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simulates&color=blue" alt="fax" width="" height="">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=simulates&show_icons=true&theme=aura_dark">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=e2&theme=aura_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2&theme=aura_dark">
